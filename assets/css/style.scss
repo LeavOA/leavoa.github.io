@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 /* Do comments get saved? */
 
-#header
-  display = none;
+#header {
+  display = none;{
+}
